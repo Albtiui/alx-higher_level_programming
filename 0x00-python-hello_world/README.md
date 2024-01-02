@@ -1,3 +1,1 @@
-is 0x00-python-hello_world task
-This directory contains solutions to the task
-on 0x00-python-hello_world.
+0X00-Python-hello world
